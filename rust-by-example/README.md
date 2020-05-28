@@ -10,5 +10,6 @@ Resource: [Rust by Example][1]
 * [1.2.1 Debug](chp01/debug.rs) @ 2020-05-27
   * [Pretty print](chp01/pretty_print.rs) @ 2020-05-27
 * [1.2.2 Display](chp01/display.rs) @ 2020-05-27
+* [1.2.2.1 Testcase: List](chp01/testcase_list.rs) @ 2020-05-27
 
 [1]: https://doc.rust-lang.org/stable/rust-by-example/
