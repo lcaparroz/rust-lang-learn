@@ -26,5 +26,6 @@ Resource: [Rust by Example][1]
 * [3.2 Enums](chp03/enums.rs) @ 2020-05-30
   * [Type Aliases](chp03/type_aliases) @ 2020-05-30
 * [3.2.1 `use`](chp03/use.rs) 2020-05-30
+* [3.2.2 C-like](chp03/c_like.rs) @ 2020-05-30
 
 [1]: https://doc.rust-lang.org/stable/rust-by-example/
