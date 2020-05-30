@@ -17,5 +17,6 @@ Resource: [Rust by Example][1]
 
 * [2. Primitives](chp02/primitives.rs) @ 2020-05-30
 * [2.1 Literals and Operators](chp02/literals_operators.rs) @ 2020-05-30
+* [2.2 Tuples](chp02/tuples.rs) @ 2020-05-30
 
 [1]: https://doc.rust-lang.org/stable/rust-by-example/
