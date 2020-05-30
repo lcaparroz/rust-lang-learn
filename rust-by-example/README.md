@@ -23,5 +23,6 @@ Resource: [Rust by Example][1]
 ## Chapter 03: Custom Types (as 2020-05-30)
 
 * [3.1 Structures](chp03/structures.rs) @ 2020-05-30
+* [3.2 Enums](chp03/enums.rs) @ 2020-05-30
 
 [1]: https://doc.rust-lang.org/stable/rust-by-example/
