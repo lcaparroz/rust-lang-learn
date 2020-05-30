@@ -2,7 +2,7 @@
 
 Resource: [Rust by Example][1]
 
-## Chapter 01 (as 2020-05-27)
+## Chapter 01: Hello World (as 2020-05-27)
 
 * [1. Hello World](chp01/hello.rs) @ 2020-05-27
 * [1.1 Comments](chp01/comments.rs) @ 2020-05-27
@@ -13,11 +13,15 @@ Resource: [Rust by Example][1]
 * [1.2.2.1 Testcase: List](chp01/testcase_list.rs) @ 2020-05-27
 * [1.2.3 Formatting](chp01/formatting.rs) @ 2020-05-27
 
-## Chapter 02 (as 2020-05-30)
+## Chapter 02: Primitives (as 2020-05-30)
 
 * [2. Primitives](chp02/primitives.rs) @ 2020-05-30
 * [2.1 Literals and Operators](chp02/literals_operators.rs) @ 2020-05-30
 * [2.2 Tuples](chp02/tuples.rs) @ 2020-05-30
 * [2.3 Arrays and Slices](chp02/array_slices.rs) @ 2020-05-30
+
+## Chapter 03: Custom Types (as 2020-05-30)
+
+* [3.1 Structures](chp03/structures.rs) @ 2020-05-30
 
 [1]: https://doc.rust-lang.org/stable/rust-by-example/
