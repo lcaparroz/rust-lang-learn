@@ -33,5 +33,6 @@ Resource: [Rust by Example][1]
 ## Chapter 04: Variable Bindings (as 2020-06-01)
 
 * [4. Variable Bindings](chp04/variable_bindings.rs) @ 2020-06-01
+* [4.1 Mutability](chp04/mutability.rs) @ 2020-06-01
 
 [1]: https://doc.rust-lang.org/stable/rust-by-example/
