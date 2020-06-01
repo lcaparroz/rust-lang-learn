@@ -44,4 +44,10 @@ Resource: [Rust by Example][1]
 * [5.3 Inference](chp05/inference.rs) @ 2020-06-01
 * [5.4 Aliasing](chp05/aliasing.rs) @ 2020-06-01
 
+## Chapter 06: Conversion (as 2020-06-01)
+
+* 6.1 From and Into
+  * [From trait](chp05/from_trait.rs) @ 2020-06-01
+  * [Into trait](chp05/into_trait.rs) @ 2020-06-01
+
 [1]: https://doc.rust-lang.org/stable/rust-by-example/
