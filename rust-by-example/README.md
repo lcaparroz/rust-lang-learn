@@ -30,4 +30,8 @@ Resource: [Rust by Example][1]
 * [3.2.3 Testcase: linked-list](chp03/testcase_linked_list.rs) @ 2020-05-30
 * [3.3 Constants](chp03/constants.rs) @ 2020-05-30
 
+## Chapter 04: Variable Bindings (as 2020-06-01)
+
+* [4. Variable Bindings](chp04/variable_bindings.rs) @ 2020-06-01
+
 [1]: https://doc.rust-lang.org/stable/rust-by-example/
