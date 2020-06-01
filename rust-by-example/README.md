@@ -37,4 +37,8 @@ Resource: [Rust by Example][1]
 * [4.2 Scope and Shadowing](chp04/scope_shadowing.rs) @ 2020-06-01
 * [4.3 Declare first](chp04/declare_first.rs) @ 2020-06-01
 
+## Chapter 05: Types (as 2020-06-01)
+
+* [5.1 Casting](chp05/casting.rs) @ 2020-06-01
+
 [1]: https://doc.rust-lang.org/stable/rust-by-example/
