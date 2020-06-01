@@ -40,5 +40,6 @@ Resource: [Rust by Example][1]
 ## Chapter 05: Types (as 2020-06-01)
 
 * [5.1 Casting](chp05/casting.rs) @ 2020-06-01
+* [5.2 Literals](chp05/literals.rs) @ 2020-06-01
 
 [1]: https://doc.rust-lang.org/stable/rust-by-example/
