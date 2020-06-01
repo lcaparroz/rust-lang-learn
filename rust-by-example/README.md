@@ -54,4 +54,8 @@ Resource: [Rust by Example][1]
   * [Converting to String](chp06/converting_to_string.rs) @ 2020-06-01
   * [Parsing a String](chp06/parsing_string.rs) @ 2020-06-01
 
+## Chapter 07: Expressions (as 2020-06-01)
+
+* [7. Expressions](chp07/expressions.rs) @ 2020-06-01
+
 [1]: https://doc.rust-lang.org/stable/rust-by-example/
