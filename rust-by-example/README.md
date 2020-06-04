@@ -63,5 +63,6 @@ Resource: [Rust by Example][1]
 * [8.1 `if/else`](chp08/if_else.rs) @ 2020-06-04
 * [8.2 `loop`](chp08/loop.rs) @ 2020-06-04
 * [8.2.1 Nesting and labels](chp08/nesting_labels.rs) @ 2020-06-04
+* [8.2.2 Returning from loops](chp08/returning_from_loops.rs) @ 2020-06-04
 
 [1]: https://doc.rust-lang.org/stable/rust-by-example/
