@@ -58,4 +58,8 @@ Resource: [Rust by Example][1]
 
 * [7. Expressions](chp07/expressions.rs) @ 2020-06-01
 
+## Chapter 08: Flow of Control (as 2020-06-04)
+
+* [8.1 `if/else`](chp08/if_else.rs) @ 2020-06-04
+
 [1]: https://doc.rust-lang.org/stable/rust-by-example/
