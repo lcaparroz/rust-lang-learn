@@ -65,5 +65,8 @@ Resource: [Rust by Example][1]
 * [8.2.1 Nesting and labels](chp08/nesting_labels.rs) @ 2020-06-04
 * [8.2.2 Returning from loops](chp08/returning_from_loops.rs) @ 2020-06-04
 * [8.3 `while`](chp08/while.rs) @ 2020-06-04
+* 8.4 `for` loops
+  * [for and range (exclusive)](chp08/for_range.rs)
+  * [for and range (inclusive)](chp08/for_range_inclusive.rs)
 
 [1]: https://doc.rust-lang.org/stable/rust-by-example/
