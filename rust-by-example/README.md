@@ -81,5 +81,6 @@ Resource: [Rust by Example][1]
   * [Binding and destructuring](chp08/binding_destructuring.rs) @ 2020-06-05
 * [8.6 `if let`](chp08/if_let.rs) @ 2020-06-05
   * [`if let` with enum](chp08/if_let_enum.rs) @ 2020-06-05
+* [8.7 `while let`](chp08/while_let.rs) @ 2020-06-05
 
 [1]: https://doc.rust-lang.org/stable/rust-by-example/
