@@ -76,5 +76,6 @@ Resource: [Rust by Example][1]
 * [8.5.1.2 enums](enums.rs) @ 2020-06-04
 * [8.5.1.3 pointers/ref](pointers_ref.rs) @ 2020-06-05
 * [8.5.1.4 structs](structs.rs) @ 2020-06-05
+* [8.5.2 Guards](guards.rs) @ 2020-06-05
 
 [1]: https://doc.rust-lang.org/stable/rust-by-example/
