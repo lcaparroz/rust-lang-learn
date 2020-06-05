@@ -72,10 +72,14 @@ Resource: [Rust by Example][1]
   * [`for` and `into_iter()`](chp08/for_into_iter.rs) @ 2020-06-04
   * [`for` and `iter_mut()`](chp08/for_iter_mut.rs) @ 2020-06-04
 * [8.5 `match`](chp08/match.rs) @ 2020-06-04
-* [8.5.1.1 tuples](tuple.rs) @ 2020-06-04
-* [8.5.1.2 enums](enums.rs) @ 2020-06-04
-* [8.5.1.3 pointers/ref](pointers_ref.rs) @ 2020-06-05
-* [8.5.1.4 structs](structs.rs) @ 2020-06-05
-* [8.5.2 Guards](guards.rs) @ 2020-06-05
+* [8.5.1.1 tuples](chp08/tuple.rs) @ 2020-06-04
+* [8.5.1.2 enums](chp08/enums.rs) @ 2020-06-04
+* [8.5.1.3 pointers/ref](chp08/pointers_ref.rs) @ 2020-06-05
+* [8.5.1.4 structs](chp08/structs.rs) @ 2020-06-05
+* [8.5.2 Guards](chp08/guards.rs) @ 2020-06-05
+* [8.5.3 Binding](chp08/binding.rs) @ 2020-06-05
+  * [Binding and destructuring](chp08/binding_destructuring.rs) @ 2020-06-05
+* [8.6 `if let`](chp08/if_let.rs) @ 2020-06-05
+  * [`if let` with enum](chp08/if_let_enum.rs) @ 2020-06-05
 
 [1]: https://doc.rust-lang.org/stable/rust-by-example/
