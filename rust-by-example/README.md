@@ -71,5 +71,6 @@ Resource: [Rust by Example][1]
   * [`for` and `iter()`](chp08/for_iter.rs) @ 2020-06-04
   * [`for` and `into_iter()`](chp08/for_into_iter.rs) @ 2020-06-04
   * [`for` and `iter_mut()`](chp08/for_iter_mut.rs) @ 2020-06-04
+* [8.5 `match`](chp08/match.rs) @ 2020-06-04
 
 [1]: https://doc.rust-lang.org/stable/rust-by-example/
