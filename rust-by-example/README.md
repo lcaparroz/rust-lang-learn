@@ -74,5 +74,6 @@ Resource: [Rust by Example][1]
 * [8.5 `match`](chp08/match.rs) @ 2020-06-04
 * [8.5.1.1 tuples](tuple.rs) @ 2020-06-04
 * [8.5.1.2 enums](enums.rs) @ 2020-06-04
+* [8.5.1.3 pointers/ref](pointers_ref.rs) @ 2020-06-05
 
 [1]: https://doc.rust-lang.org/stable/rust-by-example/
